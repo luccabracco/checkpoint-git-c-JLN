@@ -2,6 +2,6 @@
 
 intmain(){
     printf("Lucca Bracco") , ("21 Anos") , ("RM 570175");
-    printf("Nickollas Korner Alves") , ("18 Anos");
+    printf("Nickollas Korner Alves") , ("18 Anos") , ("RM 569655");
     return 0;
 }
