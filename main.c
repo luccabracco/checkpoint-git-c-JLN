@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 intmain(){
-    printf("Lucca Bracco") , ("21 Anos") , ("RM 570175");
-    printf("Nickollas Korner Alves") , ("18 Anos") , ("RM 569655");
-    printf("João Pedro Ferrari Faian") , ("17 Anos") , ("RM 573037");
+    printf("Lucca Bracco\n") , ("21 Anos\n") , ("RM 570175\n");
+    printf("Nickollas Korner Alves\n") , ("18 Anos\n") , ("RM 569655\n");
+    printf("João Pedro Ferrari Faian\n") , ("17 Anos\n") , ("RM 573037\n");
     return 0;
 }
